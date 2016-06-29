@@ -3,7 +3,7 @@
 #include <iostream>
 #include <cstring>
 using namespace std;
-#include "AccountNumber.h"
+#include "class.h"
 
 namespace sict{
   void AccountNumber::name(const char name[]){

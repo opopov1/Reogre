@@ -3,7 +3,7 @@
 
 #include <iostream>
 using namespace std;
-#include "AccountNumber.h"
+#include "class.h"
 using namespace sict;
 void displayAccountNumber(const AccountNumber* acc);
 int main(){
